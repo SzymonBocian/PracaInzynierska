@@ -1,0 +1,9 @@
+service_full_name_eng,service_full_name_pl,service_short_name_eng,service_short_name_pl,service_code,service_business_key
+Manager information call,Porada ws rozwiązania młodszego konsultanta,ManaInfoCall,PoraWs RMłod,MANAGEINFOCALL00,MICALL0043
+Manager help call,Porada ws pomocy manadżera,ManaHelpCall,PoraWs PMana,MANAGEHELPCALL00,MHCALL0026
+Consultant help connection,Usługa ws rozwiązania kontraktora,ConsHelpConn,UsłuWs RKont,CONSULHELPCONN00,CHCONN0033
+Lead consultant solution advice,Konsultancja ws pomocy kontraktora,LeadSoluAdvi,KonsWs PKont,LEAD CSOLUADVI00,LSADVI0034
+Contractor help service,Połącznie ws pomocy starszego konsultanta,ContHelpServ,PołąWs PStar,CONTRAHELPSERV00,CHSERV0041
+Junior consultant information connection,Rozmowa informacyjna manadżera,JuniInfoConn,RozmInfoMana,JUNIORINFOCONN00,JICONN0030
+Senior consultant information service,Usługa ws pomocy konsultanta,SeniInfoServ,UsłuWs PKons,SENIORINFOSERV00,SISERV0028
+Contractor information service,Połącznie informacyjna manadżera,ContInfoServ,PołąInfoMana,CONTRAINFOSERV00,CISERV0032

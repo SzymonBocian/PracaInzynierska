@@ -1,0 +1,9 @@
+client_first_name,client_second_name,client_last_name,sex_pl,sex_eng,sex_shortcut_pl,sex_shortcut_eng,client_age,client_business_key
+Karol,,Olsen,Mężczyzna,Male,M,M,85,KO040040085M
+Oskar,,Erwin,Mężczyzna,Male,M,M,44,OE040040044M
+Jeremi,,Glemp,Mężczyzna,Male,M,M,23,JG048040023M
+Małgorzata,,Lang,Kobieta,Female,K,F,47,ML080032047K
+Erazm,,Alef,Mężczyzna,Male,M,M,59,EA040032059M
+Bartłomiej,Maciej,Pferdburg,Mężczyzna,Male,M,M,36,BP080072036M
+Jadwiga,Celina,Deleng,Kobieta,Female,K,F,32,JD056048032K
+Halina,,Czarny,Kobieta,Female,K,F,71,HC048048071K

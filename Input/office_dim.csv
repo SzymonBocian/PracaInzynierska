@@ -1,0 +1,11 @@
+old_office_key,office_hier_key,office_name,address_street_name,address_street_number,address_local_number,location_latitude,location_longitude,office_business_key
+,1,Call Center in Bern city,Ismail's st.,6,4,-70.3277,-124.6332,CALISM0604
+1,1,Call Center in Cincinnati city,Mickiewicz's st.,9,54,-2.9987,163.3078,CALMIC0954
+,1,Call Center in Hasting city,Himilsbach's st.,23,90,17.8657,-39.4457,CALHIM2390
+,1,Call Center in Irkuck city,Chopin's st.,21,93,-77.2068,-39.1496,CALCHO2193
+,1,Call Center in Fez city,Garibaldi's st.,13,40,35.1367,-59.0527,CALGAR1340
+,1,Call Center in Okocim city,Adalbert's st.,2,84,-50.5175,82.3411,CALADA0284
+,1,Call Center in Jastarnia city,Einstein's st.,2,41,-39.7994,8.1631,CALEIN0241
+,1,Call Center in Grodno city,Preslay's st.,12,11,-9.9801,-75.2828,CALPRE1211
+,1,Call Center in Dobrzyń city,Nobel's st.,11,77,-53.4983,-56.8564,CALNOB1177
+,1,Call Center in Monaco city,Foch's st.,17,32,25.247,-95.4653,CALFOC1732
