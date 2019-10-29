@@ -7,3 +7,10 @@ Contractor help service,Połącznie ws pomocy starszego konsultanta,ContHelpServ
 Junior consultant information connection,Rozmowa informacyjna manadżera,JuniInfoConn,RozmInfoMana,JUNIORINFOCONN00,JICONN0030
 Senior consultant information service,Usługa ws pomocy konsultanta,SeniInfoServ,UsłuWs PKons,SENIORINFOSERV00,SISERV0028
 Contractor information service,Połącznie informacyjna manadżera,ContInfoServ,PołąInfoMana,CONTRAINFOSERV00,CISERV0032
+Contractor information call,Połącznie informacyjna głównego konsultanta,ContInfoCall,PołąInfoGłów,CONTRAINFOCALL00,CICALL0043
+Manager solution connection,Porada ws pomocy głównego konsultanta,ManaSoluConn,PoraWs PGłów,MANAGESOLUCONN00,MSCONN0037
+Senior consultant information advice,Usługa ws pomocy głównego konsultanta,SeniInfoAdvi,UsłuWs PGłów,SENIORINFOADVI00,SIADVI0037
+Lead consultant solution service,Konsultancja ws pomocy głównego konsultanta,LeadSoluServ,KonsWs PGłów,LEAD CSOLUSERV00,LSSERV0043
+Junior consultant solution advice,Rozmowa ws rozwiązania starszego konsultanta,JuniSoluAdvi,RozmWs RStar,JUNIORSOLUADVI00,JSADVI0044
+Manager information consultation,Porada ws rozwiązania starszego konsultanta,ManaInfoCons,PoraWs RStar,MANAGEINFOCONS00,MICONS0043
+Contractor solution consultation,Połącznie ws rozwiązania manadżera,ContSoluCons,PołąWs RMana,CONTRASOLUCONS00,CSCONS0034
