@@ -60,7 +60,9 @@ class DbConn:
 
 
 class PathMaker:
-    "Create path to file, validate if path exists"
+    """
+    Create path to file, validate if path exists.
+    """
 
     __slots__ = ["main_path"]
 

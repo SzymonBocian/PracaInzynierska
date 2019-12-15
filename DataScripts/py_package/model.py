@@ -1,6 +1,6 @@
 
-import os
-from py_module import DbConn
+import db_conn
+import path_maker
 
 class ModelParams:
 
@@ -23,25 +23,7 @@ class ModelParams:
         self.max_occup            = max_occup
         self.shrink               = shrink   
 
-    def path_create(self, dir_list):
-
-        path = os.path.expanduser("~")
-
-        for d in dir_list:
-            path = os.path.join(path, d)         
-        
-        return path
-
-    def path_validate(self, path):
-
-        return os.path.exists(path)
-
 
 if __name__ == "__main__":
 
-    m = ModelParams(100,30,180,0.8,20,0.85,0.3)
-
-    dir_list = ['Documents', 'CallCenterStaffing', 'DataScripts', 'py_package', 'model.py']
-
-    p = m.path_create(dir_list)
-    print(m.path_validate(p))
+    model = ModelParams(100,30,180,0.8,20,0.85,0.3)
