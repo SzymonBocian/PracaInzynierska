@@ -1,0 +1,111 @@
+consultant_business_key,consultant_key,20190311,20190312,20190313,20190314,20190315,20190316,20190317,20190311_val,20190312_val,20190313_val,20190314_val,20190315_val,20190316_val,20190317_val
+MT048088004E,47,1,1,1,1,1,1,1,Billing,Billing,Billing,Billing,Billing,Billing,Billing
+IB040040004E,107,1,1,1,1,1,1,1,Billing,Billing,Billing,Billing,Billing,Billing,Billing
+BT040064004E,83,1,1,1,1,1,1,1,Billing,Billing,Billing,Billing,Billing,Billing,Billing
+SM056072004E,62,1,1,1,1,1,1,1,Billing,Billing,Billing,Billing,Billing,Billing,Billing
+MN088040004E,59,1,1,1,1,1,1,1,Billing,Billing,Billing,Billing,Billing,Billing,Billing
+RR064040004E,38,1,1,1,1,1,1,1,Billing,Billing,Billing,Billing,Billing,Billing,Billing
+MA056072004E,74,1,1,1,1,1,1,1,Billing,Billing,Billing,Billing,Billing,Billing,Billing
+TT032096004E,95,1,1,1,1,1,1,1,Billing,Billing,Billing,Billing,Billing,Billing,Billing
+AK032048004E,86,1,1,1,1,1,1,1,Billing,Billing,Billing,Billing,Billing,Billing,Billing
+BS040064004E,87,1,1,1,1,1,1,1,Reclamation,Reclamation,Reclamation,Reclamation,Reclamation,Reclamation,Reclamation
+JL048064004E,94,1,1,1,1,1,1,1,Reclamation,Reclamation,Reclamation,Reclamation,Reclamation,Reclamation,Reclamation
+TF040072004E,58,1,1,1,1,1,1,1,Reclamation,Reclamation,Reclamation,Reclamation,Reclamation,Reclamation,Reclamation
+KB048048004E,68,1,1,1,1,1,1,1,Delivery,Delivery,Delivery,Delivery,Delivery,Delivery,Delivery
+BJ040056004E,39,1,1,1,1,1,1,1,Reclamation,Reclamation,Reclamation,Reclamation,Reclamation,Reclamation,Reclamation
+BF040048004E,23,1,1,1,1,1,1,1,Tariff change,Tariff change,Tariff change,Tariff change,Tariff change,Tariff change,Tariff change
+PK040096004E,98,1,1,1,1,1,1,1,Order handle,Order handle,Order handle,Order handle,Order handle,Order handle,Order handle
+JP056040004E,14,1,1,1,1,1,1,1,Order handle,Order handle,Order handle,Order handle,Order handle,Order handle,Order handle
+NK056072004E,26,1,1,1,1,1,1,1,Reservation,Reservation,Reservation,Reservation,Reservation,Reservation,Reservation
+FB064040004E,53,1,1,1,1,1,1,1,Delivery,Delivery,Delivery,Delivery,Delivery,Delivery,Delivery
+BP080032004E,69,1,1,1,1,1,1,1,Delivery,Delivery,Delivery,Delivery,Delivery,Delivery,Delivery
+FN048056004E,44,1,1,1,1,1,1,1,Delivery,Delivery,Delivery,Delivery,Delivery,Delivery,Delivery
+JK056056004E,35,1,1,1,1,1,1,1,Reservation,Order handle,Order handle,Order handle,Order handle,Order handle,Order handle
+ZP056048004E,82,1,1,1,1,1,1,1,Reset password,Reclamation,Reclamation,Reclamation,Reclamation,Reclamation,Reclamation
+WC056056004E,27,1,1,1,1,1,1,1,Reset password,Reclamation,Reclamation,Reclamation,Reclamation,Reclamation,Reclamation
+BJ056080004E,75,1,1,1,1,1,1,1,Reservation,Reclamation,Reclamation,Reclamation,Reclamation,Reclamation,Reclamation
+MK040040004E,52,1,1,1,1,1,1,1,Delivery,Delivery,Delivery,Delivery,Delivery,Delivery,Delivery
+AM040104004E,79,1,1,1,1,1,1,1,Complaint,Complaint,Complaint,Complaint,Complaint,Complaint,Complaint
+KP048064004E,17,1,1,1,1,1,1,1,Reset account settings,Delivery,Delivery,Delivery,Delivery,Delivery,Delivery
+RM048056004E,102,1,1,1,1,1,1,1,Complaint,Complaint,Complaint,Complaint,Complaint,Complaint,Complaint
+OK048024004E,32,1,1,1,1,1,1,1,Reset account settings,Delivery,Delivery,Delivery,Delivery,Delivery,Delivery
+OJ056080004E,104,1,1,1,1,1,1,1,Reset account settings,Delivery,Delivery,Delivery,Delivery,Delivery,Delivery
+TM048040004E,92,1,1,1,1,1,1,1,Order handle,Delivery,Delivery,Delivery,Delivery,Delivery,Order handle
+IM024080004E,93,1,1,1,1,1,1,1,Delivery,Delivery,Delivery,Reclamation,Reclamation,Reclamation,Reclamation
+KG072048004E,34,1,1,1,1,1,1,1,Reclamation,Reclamation,Reclamation,Reclamation,Reclamation,Reclamation,Reclamation
+HK048064004E,29,1,1,1,1,1,1,1,Order handle,Order handle,Order handle,Order handle,Order handle,Order handle,Order handle
+AP080080004E,103,1,1,1,1,1,1,1,Billing,Complaint,Complaint,Complaint,Complaint,Complaint,Complaint
+AA032048000E,4,1,1,1,2,2,2,1,Delivery,Reclamation,Reclamation,Billing,Billing,Billing,Reclamation
+SM048040004E,114,1,1,1,1,1,1,1,Complaint,Complaint,Complaint,Complaint,Complaint,Complaint,Complaint
+OK056088004E,19,1,1,1,1,1,1,1,Complaint,Complaint,Complaint,Complaint,Complaint,Complaint,Complaint
+WP056056004E,6,1,1,1,1,1,1,1,Complaint,Complaint,Complaint,Complaint,Complaint,Complaint,Complaint
+MM048064004E,77,1,1,1,1,1,1,1,Delivery,Order handle,Order handle,Order handle,Order handle,Order handle,Order handle
+IM040040004E,63,1,1,1,1,1,1,1,Reset password,Order handle,Order handle,Order handle,Order handle,Order handle,Order handle
+MA040088004E,18,1,1,1,1,1,1,1,Reset password,Complaint,Complaint,Complaint,Complaint,Complaint,Complaint
+MM040048004E,7,1,1,1,1,1,1,1,Reclamation,Complaint,Complaint,Complaint,Complaint,Complaint,Complaint
+TP032112004E,89,1,1,1,1,1,1,1,Billing,Reset account settings,Reset account settings,Reset account settings,Reset account settings,Reset account settings,Reset account settings
+PM064064004E,8,1,1,1,1,1,1,1,Reset account settings,Order handle,Order handle,Order handle,Order handle,Order handle,Order handle
+KM064072004E,43,1,1,1,1,1,1,1,Complaint,Complaint,Complaint,Complaint,Complaint,Complaint,Complaint
+PD040072004E,76,1,1,1,1,1,1,1,Reclamation,Reservation,Reservation,Reservation,Reservation,Reservation,Reservation
+ET072096004E,13,1,1,2,1,2,2,2,Complaint,Complaint,Billing,Complaint,Billing,Billing,Billing
+LD056088004E,11,1,1,1,1,1,1,1,Reservation,Contract extension,Contract extension,Contract extension,Contract extension,Contract extension,Contract extension
+SP072048004E,50,1,1,1,1,1,1,1,Contract extension,Contract extension,Contract extension,Contract extension,Contract extension,Contract extension,Contract extension
+CO056040004E,42,1,1,1,1,1,2,1,Order handle,Order handle,Order handle,Order handle,Order handle,Complaint,Order handle
+LK048080004E,71,1,1,1,1,1,1,1,Contract extension,Contract extension,Contract extension,Contract extension,Contract extension,Contract extension,Contract extension
+KK056088004E,20,1,1,1,1,1,1,1,Contract extension,Contract extension,Contract extension,Contract extension,Contract extension,Contract extension,Contract extension
+AM040056004E,51,1,1,1,1,1,1,1,Contract extension,Contract extension,Contract extension,Contract extension,Contract extension,Contract extension,Contract extension
+MF056032004E,46,1,1,1,1,1,1,1,Reservation,Reservation,Reservation,Reservation,Reservation,Reservation,Reservation
+SK064048004E,15,1,1,1,1,1,1,1,Billing,Order handle,Order handle,Order handle,Order handle,Reservation,Reservation
+CG056064004E,67,1,1,1,1,1,1,1,Complaint,Tariff change,Tariff change,Tariff change,Tariff change,Tariff change,Tariff change
+MB048064004E,106,1,1,1,1,1,1,1,Billing,Order handle,Reservation,Reservation,Reservation,Reservation,Reservation
+MR056040004E,113,1,1,1,1,1,1,1,Reset account settings,Reset account settings,Reset account settings,Reset account settings,Reset account settings,Reset account settings,Reset account settings
+JU040040004E,110,1,1,1,1,1,1,1,Contract extension,Contract extension,Contract extension,Contract extension,Contract extension,Contract extension,Contract extension
+MG072056004E,65,1,1,1,1,1,1,1,Delivery,Reservation,Reservation,Reservation,Reservation,Reservation,Reservation
+JF056048004E,101,1,1,1,1,1,1,1,Contract extension,Contract extension,Contract extension,Contract extension,Contract extension,Contract extension,Contract extension
+RK032064004E,22,1,1,1,1,1,1,1,Reclamation,Tariff change,Tariff change,Tariff change,Tariff change,Tariff change,Tariff change
+JA024088004E,54,1,1,1,1,1,1,1,Reset password,Reset password,Reset password,Reset password,Reset password,Reset password,Reset password
+ZP080104004E,111,1,1,1,1,1,1,1,Contract extension,Contract extension,Contract extension,Contract extension,Contract extension,Contract extension,Contract extension
+IK032072004E,33,1,1,1,1,1,1,1,Delivery,Reset account settings,Reset account settings,Reset account settings,Reset account settings,Reset account settings,Reset account settings
+MG072024004E,10,1,1,1,1,1,1,1,Reset password,Contract extension,Contract extension,Contract extension,Contract extension,Contract extension,Contract extension
+PS048048004E,108,1,1,1,1,1,1,1,Delivery,Reset password,Reset password,Reset password,Reset password,Reset password,Reset password
+HS040048004E,112,1,1,1,1,1,1,1,Billing,Reset account settings,Reset account settings,Reset account settings,Reset account settings,Reset account settings,Reset account settings
+IM056104004E,84,1,2,2,2,2,2,2,Complaint,Billing,Billing,Billing,Complaint,Complaint,Billing
+JK056064004E,78,1,1,1,1,1,1,1,Complaint,Tariff change,Tariff change,Tariff change,Tariff change,Tariff change,Tariff change
+BG048080004E,16,1,1,1,1,1,1,1,Reset account settings,Reservation,Reservation,Reservation,Reservation,Reservation,Reservation
+EG040040004E,9,1,1,1,1,1,1,1,Reclamation,Reset account settings,Reset account settings,Reset account settings,Reset account settings,Reset account settings,Reset account settings
+JW064064004E,70,1,1,1,1,1,1,1,Order handle,Reservation,Reservation,Reservation,Reservation,Contract extension,Reservation
+SK048040004E,24,1,1,1,1,1,1,1,Delivery,Reset account settings,Reset account settings,Reset account settings,Reset account settings,Reset account settings,Reset account settings
+JG064040004E,57,1,1,1,1,1,1,1,Order handle,Reset account settings,Reset account settings,Reset account settings,Reset account settings,Reset account settings,Reset account settings
+AR064040004E,109,1,1,1,1,1,1,1,Reset password,Reset password,Reset password,Reset password,Reset password,Reset password,Reset password
+MK064072004E,41,1,1,1,1,1,1,1,Contract extension,Reservation,Reservation,Reservation,Reservation,Reservation,Reservation
+PK048072004E,48,1,1,1,1,1,1,1,Reclamation,Reset account settings,Reset account settings,Reset account settings,Reset account settings,Reset account settings,Reset account settings
+NL048056004E,37,1,1,1,1,1,1,1,Reset password,Reset password,Reset password,Reset password,Reset password,Reset password,Reset password
+KK048064004E,12,1,1,1,1,1,1,1,Billing,Tariff change,Tariff change,Tariff change,Tariff change,Tariff change,Tariff change
+IK024048004E,30,1,1,1,1,1,1,2,Complaint,Reservation,Reservation,Reservation,Reservation,Reservation,Complaint
+BG072048004E,31,1,1,2,1,2,2,2,Complaint,Reservation,Complaint,Reservation,Complaint,Complaint,Complaint
+AK048064004E,97,1,1,1,1,1,1,2,Delivery,Reset account settings,Reset account settings,Reset account settings,Reset account settings,Reset account settings,Delivery
+KP072096004E,88,1,1,1,1,1,1,1,Reset account settings,Tariff change,Tariff change,Tariff change,Tariff change,Tariff change,Tariff change
+MD064048004E,66,1,1,1,1,1,1,1,Complaint,Tariff change,Tariff change,Tariff change,Tariff change,Tariff change,Tariff change
+NK064080004E,80,1,2,2,2,2,2,2,Delivery,Contract extension,Contract extension,Contract extension,Contract extension,Contract extension,Contract extension
+DF056040004E,99,1,1,1,1,1,1,1,Order handle,Reset password,Reset password,Reset password,Reset password,Reset password,Reset password
+ZK064072004E,28,1,1,1,1,1,1,1,Billing,Reset password,Reset password,Reset password,Reset password,Reset password,Reset password
+OW048088004E,85,1,2,2,2,2,2,2,Order handle,Complaint,Delivery,Complaint,Complaint,Delivery,Order handle
+KB056064004E,49,1,2,2,2,2,2,2,Complaint,Complaint,Order handle,Complaint,Delivery,Delivery,Reclamation
+JS040056004E,60,1,2,2,2,2,2,2,Complaint,Contract extension,Reclamation,Contract extension,Contract extension,Contract extension,Contract extension
+DP048064004E,64,1,1,1,1,1,1,1,Order handle,Reset password,Reset password,Reset password,Reset password,Reset password,Reset password
+ES064040004E,73,1,1,1,1,1,1,1,Complaint,Reset password,Reset password,Reset password,Reset password,Reset password,Reset password
+LK032048004E,40,1,2,2,2,2,2,2,Reclamation,Delivery,Reclamation,Delivery,Delivery,Reclamation,Reclamation
+RM032056004E,72,1,1,1,1,1,1,1,Complaint,Reset password,Reset password,Reset password,Reset password,Reset password,Reset password
+OP056048004E,90,1,2,1,2,2,2,2,Billing,Reclamation,Reset password,Reclamation,Reclamation,Reclamation,Reclamation
+MH072040004E,25,1,2,2,2,2,2,2,Delivery,Delivery,Reservation,Delivery,Reclamation,Reservation,Reservation
+MK056072004E,61,1,2,2,2,2,2,2,Contract extension,Reclamation,Reservation,Reclamation,Reservation,Reservation,Reservation
+JK056040004E,96,1,2,2,2,2,2,2,Reset account settings,Reservation,Reset account settings,Reservation,Reservation,Reset account settings,Reservation
+DP040056004E,21,1,2,2,2,2,2,0,Billing,Order handle,Order handle,Order handle,Order handle,Order handle,0
+MG040040004E,56,1,1,1,1,1,1,1,Reservation,Tariff change,Tariff change,Tariff change,Tariff change,Tariff change,Tariff change
+EI032080004E,45,1,1,1,1,2,1,1,Reservation,Tariff change,Tariff change,Tariff change,Reset password,Tariff change,Tariff change
+MU056064004E,55,1,2,2,2,2,2,1,Reservation,Reservation,Reset password,Reservation,Reset password,Reset password,Tariff change
+MZ048064004E,105,1,2,0,2,2,2,2,Delivery,Reset account settings,0,Order handle,Order handle,Order handle,Reset account settings
+FK080048004E,100,1,2,2,2,2,2,2,Reclamation,Reset password,Reset password,Reset password,Tariff change,Reset password,Reset password
+AZ040032004E,36,1,0,0,0,0,0,2,Complaint,0,0,0,0,0,Reset password
+KM080080004E,91,1,0,0,0,0,0,0,Reset password,0,0,0,0,0,0
+FD064064004E,81,1,2,0,2,2,2,2,Reset account settings,Reset account settings,0,Reset account settings,Reset account settings,Reset account settings,Reset account settings
